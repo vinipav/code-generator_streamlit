@@ -1,0 +1,8 @@
+
+
+[1m> Entering new LLMChain chain...[0m
+Prompt after formatting:
+[32;1m[1;3mYou are a helpful assistant that generates add code in python for this given 3, 4.[0m
+
+[1m> Finished chain.[0m
+[32m2023-10-24 21:27:04.525[0m | [1mINFO    [0m | [36mlangchain_main[0m:[36mcode_generator[0m:[36m40[0m - [1m{'code_text': 'add', 'language': 'python', 'sample_input': '3, 4', 'code': 'Certainly! Here\'s a Python code snippet that adds 3 and 4 together:\n\n```python\nnum1 = 3\nnum2 = 4\n\nsum = num1 + num2\n\nprint("The sum is:", sum)\n```\n\nWhen you run this code, it will output: `The sum is: 7`.'}[0m
